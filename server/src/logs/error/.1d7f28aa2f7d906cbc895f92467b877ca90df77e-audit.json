@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "/home/vlade/test2/server/src/logs/error/.1d7f28aa2f7d906cbc895f92467b877ca90df77e-audit.json",
+    "files": [
+        {
+            "date": 1756726058464,
+            "name": "/home/vlade/test2/server/src/logs/error/2025-09-01.log",
+            "hash": "8e74315678257b538745c184be289bcc2256dc729339d4e0a65b2515d16da846"
+        }
+    ],
+    "hashType": "sha256"
+}

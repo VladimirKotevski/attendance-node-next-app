@@ -1,0 +1,51 @@
+2025-09-01 13:27:38 info: ✅ Connected to MongoDB.
+2025-09-01 13:27:40 info: 🚀 Server listening on port 3001
+2025-09-01 13:27:40 info: 📚 Swagger docs at http://localhost:3001/api-docs
+2025-09-01 14:41:33 info: ✅ Connected to MongoDB.
+2025-09-01 14:41:34 info: 🚀 Server listening on port 3001
+2025-09-01 14:41:34 info: 📚 Swagger docs at http://localhost:3001/api-docs
+2025-09-01 19:28:43 info: ✅ Connected to MongoDB.
+2025-09-01 19:28:45 info: 🚀 Server listening on port 3001
+2025-09-01 19:28:45 info: 📚 Swagger docs at http://localhost:3001/api-docs
+2025-09-01 19:28:48 error: [GET] /api-docs/ >> StatusCode:: 404, Message:: No attendance found for api-docs
+2025-09-01 19:28:49 error: [GET] /favicon.ico >> StatusCode:: 404, Message:: No attendance found for favicon.ico
+2025-09-01 19:28:54 error: [GET] /api-docs/ >> StatusCode:: 404, Message:: No attendance found for api-docs
+2025-09-01 19:29:30 info: ✅ Connected to MongoDB.
+2025-09-01 19:29:31 info: 🚀 Server listening on port 3001
+2025-09-01 19:29:31 info: 📚 Swagger docs at http://localhost:3001/api-docs
+2025-09-01 19:29:35 error: [GET] /api-docs/ >> StatusCode:: 404, Message:: No attendance found for api-docs
+2025-09-01 19:29:36 error: [GET] /api-docs/ >> StatusCode:: 404, Message:: No attendance found for api-docs
+2025-09-01 19:29:37 error: [GET] /api-docs/ >> StatusCode:: 404, Message:: No attendance found for api-docs
+2025-09-01 19:29:40 info: ✅ Connected to MongoDB.
+2025-09-01 19:29:40 info: 🚀 Server listening on port 3001
+2025-09-01 19:29:40 info: 📚 Swagger docs at http://localhost:3001/api-docs
+2025-09-01 19:30:06 info: ✅ Connected to MongoDB.
+2025-09-01 19:30:06 info: 🚀 Server listening on port 3001
+2025-09-01 19:30:06 info: 📚 Swagger docs at http://localhost:3001/api-docs
+2025-09-01 19:30:11 error: [GET] /api-docs/ >> StatusCode:: 404, Message:: No attendance found for api-docs
+2025-09-01 19:30:12 error: [GET] /api-docs/ >> StatusCode:: 404, Message:: No attendance found for api-docs
+2025-09-01 19:30:12 error: [GET] /api-docs/ >> StatusCode:: 404, Message:: No attendance found for api-docs
+2025-09-01 19:30:41 info: ✅ Connected to MongoDB.
+2025-09-01 19:30:41 info: 🚀 Server listening on port 3001
+2025-09-01 19:30:41 info: 📚 Swagger docs at http://localhost:3001/api-docs
+2025-09-01 19:30:44 error: [GET] /api-docs/ >> StatusCode:: 404, Message:: No attendance found for api-docs
+2025-09-01 19:31:01 error: [GET] /api-docs/ >> StatusCode:: 404, Message:: No attendance found for api-docs
+2025-09-01 19:32:22 info: ✅ Connected to MongoDB.
+2025-09-01 19:32:23 info: 🚀 Server listening on port 3001
+2025-09-01 19:32:23 info: 📚 Swagger docs at http://localhost:3001/api-docs
+2025-09-01 19:32:29 info: ✅ Connected to MongoDB.
+2025-09-01 19:32:30 info: 🚀 Server listening on port 3001
+2025-09-01 19:32:30 info: 📚 Swagger docs at http://localhost:3001/api-docs
+2025-09-01 19:32:40 info: ✅ Connected to MongoDB.
+2025-09-01 19:32:40 info: 🚀 Server listening on port 3001
+2025-09-01 19:32:40 info: 📚 Swagger docs at http://localhost:3001/api-docs
+2025-09-01 19:34:16 info: ✅ Connected to MongoDB.
+2025-09-01 19:34:16 info: 🚀 Server listening on port 3001
+2025-09-01 19:34:16 info: 📚 Swagger docs at http://localhost:3001/api-docs
+2025-09-01 19:34:17 error: [GET] /api-docs/ >> StatusCode:: 404, Message:: No attendance found for api-docs
+2025-09-01 19:35:19 info: ✅ Connected to MongoDB.
+2025-09-01 19:35:20 info: 🚀 Server listening on port 3001
+2025-09-01 19:35:20 info: 📚 Swagger docs at http://localhost:3001/api-docs
+2025-09-01 19:35:43 info: ✅ Connected to MongoDB.
+2025-09-01 19:35:44 info: 🚀 Server listening on port 3001
+2025-09-01 19:35:44 info: 📚 Swagger docs at http://localhost:3001/api-docs
