@@ -32,7 +32,9 @@ class AttendanceService {
     }
 
     public async getAllAttendance(): Promise<AttendanceAttrs[]> {
-        return Attendance.find();
+        const query = Attendance.find({}) as any;
+        const results = await query.cache({ key: "attendance" });
+        return results
     }
 
     public async getAttendanceByEmail(email: string): Promise<AttendanceDoc[]> {

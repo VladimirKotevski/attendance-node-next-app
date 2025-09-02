@@ -1,6 +1,7 @@
 import { Router } from "express";
 import { Routes } from "@/interfaces/routes.interface";
 import AttendanceController from "@/controllers/attendance.controller";
+import { useCache } from "@/middlewares/cache.middleware";
 
 class AttendanceRoute implements Routes {
   public path = "/attendance";
@@ -54,7 +55,7 @@ class AttendanceRoute implements Routes {
      *          200:
      *              description: List of all attendance records
      */ // GET - /attendance
-    this.router.get("/attendance", this.attendanceController.getAllAttendance);
+    this.router.get("/attendance", useCache("attendance"), this.attendanceController.getAllAttendance);
 
     /**
      * @swagger
