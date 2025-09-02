@@ -9,6 +9,11 @@
             "date": 1756726058464,
             "name": "/home/vlade/test2/server/src/logs/error/2025-09-01.log",
             "hash": "8e74315678257b538745c184be289bcc2256dc729339d4e0a65b2515d16da846"
+        },
+        {
+            "date": 1756816515964,
+            "name": "/home/vlade/test2/server/src/logs/error/2025-09-02.log",
+            "hash": "3d3f6d933b82970306d48e9b392a8d5aab2a0120c5d4ec645392ddabe8dc3bdd"
         }
     ],
     "hashType": "sha256"

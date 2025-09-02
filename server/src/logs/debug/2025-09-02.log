@@ -1,0 +1,74 @@
+2025-09-02 15:08:11 error: ❌ MongoDB connection error: connect ECONNREFUSED 127.0.0.1:27017
+2025-09-02 15:15:17 error: ❌ MongoDB connection error: connect ECONNREFUSED 127.0.0.1:27017
+2025-09-02 16:12:23 error: ❌ MongoDB connection error: connect ECONNREFUSED 127.0.0.1:27017
+2025-09-02 16:13:47 error: ❌ MongoDB connection error: connect ECONNREFUSED 127.0.0.1:27017
+2025-09-02 16:16:22 info: ✅ Connected to MongoDB.
+2025-09-02 16:16:22 error: ❌ Redis Client Error: ERR AUTH <password> called without any password configured for the default user. Are you sure your configuration is correct?
+2025-09-02 16:16:22 error: ❌ Redis Client Error: ERR AUTH <password> called without any password configured for the default user. Are you sure your configuration is correct?
+2025-09-02 16:16:22 error: ❌ Redis Client Error: ERR AUTH <password> called without any password configured for the default user. Are you sure your configuration is correct?
+2025-09-02 16:16:22 error: ❌ Redis Client Error: ERR AUTH <password> called without any password configured for the default user. Are you sure your configuration is correct?
+2025-09-02 16:16:23 error: ❌ Redis Client Error: ERR AUTH <password> called without any password configured for the default user. Are you sure your configuration is correct?
+2025-09-02 16:16:24 error: ❌ Redis Client Error: ERR AUTH <password> called without any password configured for the default user. Are you sure your configuration is correct?
+2025-09-02 16:16:25 error: ❌ Redis Client Error: ERR AUTH <password> called without any password configured for the default user. Are you sure your configuration is correct?
+2025-09-02 16:16:27 error: ❌ Redis Client Error: ERR AUTH <password> called without any password configured for the default user. Are you sure your configuration is correct?
+2025-09-02 16:19:35 info: ✅ Connected to MongoDB.
+2025-09-02 16:19:35 info: ✅ Connected to Redis.
+2025-09-02 16:19:36 info: 🚀 Server listening on port 3001
+2025-09-02 16:19:36 info: 📚 Swagger docs at http://localhost:3001/api-docs
+2025-09-02 16:19:49 error: [GET] /attendance >> StatusCode:: 500, Message:: query.cache is not a function
+2025-09-02 16:20:40 info: ✅ Connected to MongoDB.
+2025-09-02 16:20:40 info: ✅ Connected to Redis.
+2025-09-02 16:20:40 info: 🚀 Server listening on port 3001
+2025-09-02 16:20:40 info: 📚 Swagger docs at http://localhost:3001/api-docs
+2025-09-02 16:21:41 info: ✅ Connected to MongoDB.
+2025-09-02 16:21:41 info: ✅ Connected to Redis.
+2025-09-02 16:21:42 info: 🚀 Server listening on port 3001
+2025-09-02 16:21:42 info: 📚 Swagger docs at http://localhost:3001/api-docs
+2025-09-02 16:22:54 info: ✅ Connected to MongoDB.
+2025-09-02 16:22:54 info: ✅ Connected to Redis.
+2025-09-02 16:22:54 info: 🚀 Server listening on port 3001
+2025-09-02 16:22:54 info: 📚 Swagger docs at http://localhost:3001/api-docs
+2025-09-02 16:23:37 info: ✅ Connected to MongoDB.
+2025-09-02 16:23:37 info: ✅ Connected to Redis.
+2025-09-02 16:23:37 info: 🚀 Server listening on port 3001
+2025-09-02 16:23:37 info: 📚 Swagger docs at http://localhost:3001/api-docs
+2025-09-02 16:24:08 info: ✅ Connected to MongoDB.
+2025-09-02 16:24:08 info: ✅ Connected to Redis.
+2025-09-02 16:24:09 info: 🚀 Server listening on port 3001
+2025-09-02 16:24:09 info: 📚 Swagger docs at http://localhost:3001/api-docs
+2025-09-02 16:25:23 info: ✅ Connected to MongoDB.
+2025-09-02 16:25:23 info: ✅ Connected to Redis.
+2025-09-02 16:25:24 info: 🚀 Server listening on port 3001
+2025-09-02 16:25:24 info: 📚 Swagger docs at http://localhost:3001/api-docs
+2025-09-02 16:26:32 info: ✅ Connected to MongoDB.
+2025-09-02 16:26:32 info: ✅ Connected to Redis.
+2025-09-02 16:26:33 info: 🚀 Server listening on port 3001
+2025-09-02 16:26:33 info: 📚 Swagger docs at http://localhost:3001/api-docs
+2025-09-02 16:29:15 info: ✅ Connected to MongoDB.
+2025-09-02 16:29:15 info: ✅ Connected to Redis.
+2025-09-02 16:29:15 info: 🚀 Server listening on port 3001
+2025-09-02 16:29:15 info: 📚 Swagger docs at http://localhost:3001/api-docs
+2025-09-02 16:31:47 info: ✅ Connected to MongoDB.
+2025-09-02 16:31:47 info: ✅ Connected to Redis.
+2025-09-02 16:31:48 info: 🚀 Server listening on port 3001
+2025-09-02 16:31:48 info: 📚 Swagger docs at http://localhost:3001/api-docs
+2025-09-02 16:33:04 info: ✅ Connected to MongoDB.
+2025-09-02 16:33:04 info: ✅ Connected to Redis.
+2025-09-02 16:33:04 info: 🚀 Server listening on port 3001
+2025-09-02 16:33:04 info: 📚 Swagger docs at http://localhost:3001/api-docs
+2025-09-02 16:35:51 info: ✅ Connected to MongoDB.
+2025-09-02 16:35:51 info: ✅ Connected to Redis.
+2025-09-02 16:35:52 info: 🚀 Server listening on port 3001
+2025-09-02 16:35:52 info: 📚 Swagger docs at http://localhost:3001/api-docs
+2025-09-02 16:36:00 info: ✅ Connected to MongoDB.
+2025-09-02 16:36:00 info: ✅ Connected to Redis.
+2025-09-02 16:36:01 info: 🚀 Server listening on port 3001
+2025-09-02 16:36:01 info: 📚 Swagger docs at http://localhost:3001/api-docs
+2025-09-02 16:36:10 info: ✅ Connected to MongoDB.
+2025-09-02 16:36:10 info: ✅ Connected to Redis.
+2025-09-02 16:36:10 info: 🚀 Server listening on port 3001
+2025-09-02 16:36:10 info: 📚 Swagger docs at http://localhost:3001/api-docs
+2025-09-02 16:36:27 info: ✅ Connected to MongoDB.
+2025-09-02 16:36:28 info: ✅ Connected to Redis.
+2025-09-02 16:36:28 info: 🚀 Server listening on port 3001
+2025-09-02 16:36:28 info: 📚 Swagger docs at http://localhost:3001/api-docs

@@ -9,19 +9,22 @@ import swaggerUi from 'swagger-ui-express';
 import swaggerJSDoc from 'swagger-jsdoc';
 import { Routes } from '@interfaces/routes.interface';
 import errorMiddleware from '@middlewares/error.middleware';
-import { Database } from './database/database';
+import { Database } from './database/mongo';
+import { RedisDatabase } from './database/redis';
 
 
 class App {
   public app: express.Application;
   public env: string;
   public database: Database;
+  public redis: RedisDatabase;
 
 
-  constructor(routes: Routes[],  database: Database) {
+  constructor(routes: Routes[],  database: Database, redis: RedisDatabase) {
     this.app = express();
     this.env = 'development';
     this.database = database; 
+    this.redis = redis;
 
     this.initializeMiddlewares();
     this.initializeRoutes(routes);

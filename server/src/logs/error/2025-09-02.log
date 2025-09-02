@@ -1,0 +1,339 @@
+2025-09-02 14:35:16 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/services/attendance.service.ts(36,14): error TS2551: Property 'cache' does not exist on type 'Query<(Document<unknown, {}, AttendanceDoc, {}, {}> & AttendanceDoc & { _id: ObjectId; } & { __v: number; })[], Document<unknown, {}, AttendanceDoc, {}, {}> & AttendanceDoc & { ...; } & { ...; }, {}, AttendanceDoc, "find", {}>'. Did you mean 'catch'?
+
+Error: ⨯ Unable to compile TypeScript:
+src/services/attendance.service.ts(36,14): error TS2551: Property 'cache' does not exist on type 'Query<(Document<unknown, {}, AttendanceDoc, {}, {}> & AttendanceDoc & { _id: ObjectId; } & { __v: number; })[], Document<unknown, {}, AttendanceDoc, {}, {}> & AttendanceDoc & { ...; } & { ...; }, {}, AttendanceDoc, "find", {}>'. Did you mean 'catch'?
+
+    at Object.<anonymous> (/home/vlade/test2/server/src/services/attendance.service.ts:1:7)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1554:14)
+    at Module._compile (/home/vlade/test2/server/node_modules/source-map-support/source-map-support.js:521:25)
+    at Module.m._compile (/tmp/ts-node-dev-hook-9789262344806977.js:69:33)
+    at node:internal/modules/cjs/loader:1706:10
+    at require.extensions..jsx.require.extensions..js (/tmp/ts-node-dev-hook-9789262344806977.js:114:20)
+    at require.extensions.<computed> (/tmp/ts-node-dev-hook-9789262344806977.js:71:20)
+    at Object.nodeDevHook [as .ts] (/home/vlade/test2/server/node_modules/ts-node-dev/lib/hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1289:32)
+    at Function._load (node:internal/modules/cjs/loader:1108:12)
+2025-09-02 14:37:21 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/services/attendance.service.ts(36,14): error TS2551: Property 'cache' does not exist on type 'Query<(Document<unknown, {}, AttendanceDoc, {}, {}> & AttendanceDoc & { _id: ObjectId; } & { __v: number; })[], Document<unknown, {}, AttendanceDoc, {}, {}> & AttendanceDoc & { ...; } & { ...; }, {}, AttendanceDoc, "find", {}>'. Did you mean 'catch'?
+
+Error: ⨯ Unable to compile TypeScript:
+src/services/attendance.service.ts(36,14): error TS2551: Property 'cache' does not exist on type 'Query<(Document<unknown, {}, AttendanceDoc, {}, {}> & AttendanceDoc & { _id: ObjectId; } & { __v: number; })[], Document<unknown, {}, AttendanceDoc, {}, {}> & AttendanceDoc & { ...; } & { ...; }, {}, AttendanceDoc, "find", {}>'. Did you mean 'catch'?
+
+    at Object.<anonymous> (/home/vlade/test2/server/src/services/attendance.service.ts:1:7)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1554:14)
+    at Module._compile (/home/vlade/test2/server/node_modules/source-map-support/source-map-support.js:521:25)
+    at Module.m._compile (/tmp/ts-node-dev-hook-9789262344806977.js:69:33)
+    at node:internal/modules/cjs/loader:1706:10
+    at require.extensions..jsx.require.extensions..js (/tmp/ts-node-dev-hook-9789262344806977.js:114:20)
+    at require.extensions.<computed> (/tmp/ts-node-dev-hook-9789262344806977.js:71:20)
+    at Object.nodeDevHook [as .ts] (/home/vlade/test2/server/node_modules/ts-node-dev/lib/hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1289:32)
+    at Function._load (node:internal/modules/cjs/loader:1108:12)
+2025-09-02 14:37:59 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/services/attendance.service.ts(36,14): error TS2551: Property 'cache' does not exist on type 'Query<(Document<unknown, {}, AttendanceDoc, {}, {}> & AttendanceDoc & { _id: ObjectId; } & { __v: number; })[], Document<unknown, {}, AttendanceDoc, {}, {}> & AttendanceDoc & { ...; } & { ...; }, {}, AttendanceDoc, "find", {}>'. Did you mean 'catch'?
+
+Error: ⨯ Unable to compile TypeScript:
+src/services/attendance.service.ts(36,14): error TS2551: Property 'cache' does not exist on type 'Query<(Document<unknown, {}, AttendanceDoc, {}, {}> & AttendanceDoc & { _id: ObjectId; } & { __v: number; })[], Document<unknown, {}, AttendanceDoc, {}, {}> & AttendanceDoc & { ...; } & { ...; }, {}, AttendanceDoc, "find", {}>'. Did you mean 'catch'?
+
+    at Object.<anonymous> (/home/vlade/test2/server/src/services/attendance.service.ts:1:7)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1554:14)
+    at Module._compile (/home/vlade/test2/server/node_modules/source-map-support/source-map-support.js:521:25)
+    at Module.m._compile (/tmp/ts-node-dev-hook-667219314846689.js:69:33)
+    at node:internal/modules/cjs/loader:1706:10
+    at require.extensions..jsx.require.extensions..js (/tmp/ts-node-dev-hook-667219314846689.js:114:20)
+    at require.extensions.<computed> (/tmp/ts-node-dev-hook-667219314846689.js:71:20)
+    at Object.nodeDevHook [as .ts] (/home/vlade/test2/server/node_modules/ts-node-dev/lib/hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1289:32)
+    at Function._load (node:internal/modules/cjs/loader:1108:12)
+2025-09-02 14:39:41 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/services/attendance.service.ts(36,14): error TS2551: Property 'cache' does not exist on type 'Query<(Document<unknown, {}, AttendanceDoc, {}, {}> & AttendanceDoc & { _id: ObjectId; } & { __v: number; })[], Document<unknown, {}, AttendanceDoc, {}, {}> & AttendanceDoc & { ...; } & { ...; }, {}, AttendanceDoc, "find", {}>'. Did you mean 'catch'?
+
+Error: ⨯ Unable to compile TypeScript:
+src/services/attendance.service.ts(36,14): error TS2551: Property 'cache' does not exist on type 'Query<(Document<unknown, {}, AttendanceDoc, {}, {}> & AttendanceDoc & { _id: ObjectId; } & { __v: number; })[], Document<unknown, {}, AttendanceDoc, {}, {}> & AttendanceDoc & { ...; } & { ...; }, {}, AttendanceDoc, "find", {}>'. Did you mean 'catch'?
+
+    at Object.<anonymous> (/home/vlade/test2/server/src/services/attendance.service.ts:1:7)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1554:14)
+    at Module._compile (/home/vlade/test2/server/node_modules/source-map-support/source-map-support.js:521:25)
+    at Module.m._compile (/tmp/ts-node-dev-hook-667219314846689.js:69:33)
+    at node:internal/modules/cjs/loader:1706:10
+    at require.extensions..jsx.require.extensions..js (/tmp/ts-node-dev-hook-667219314846689.js:114:20)
+    at require.extensions.<computed> (/tmp/ts-node-dev-hook-667219314846689.js:71:20)
+    at Object.nodeDevHook [as .ts] (/home/vlade/test2/server/node_modules/ts-node-dev/lib/hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1289:32)
+    at Function._load (node:internal/modules/cjs/loader:1108:12)
+2025-09-02 14:39:46 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/services/attendance.service.ts(36,14): error TS2551: Property 'cache' does not exist on type 'Query<(Document<unknown, {}, AttendanceDoc, {}, {}> & AttendanceDoc & { _id: ObjectId; } & { __v: number; })[], Document<unknown, {}, AttendanceDoc, {}, {}> & AttendanceDoc & { ...; } & { ...; }, {}, AttendanceDoc, "find", {}>'. Did you mean 'catch'?
+
+Error: ⨯ Unable to compile TypeScript:
+src/services/attendance.service.ts(36,14): error TS2551: Property 'cache' does not exist on type 'Query<(Document<unknown, {}, AttendanceDoc, {}, {}> & AttendanceDoc & { _id: ObjectId; } & { __v: number; })[], Document<unknown, {}, AttendanceDoc, {}, {}> & AttendanceDoc & { ...; } & { ...; }, {}, AttendanceDoc, "find", {}>'. Did you mean 'catch'?
+
+    at Object.<anonymous> (/home/vlade/test2/server/src/services/attendance.service.ts:1:7)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1554:14)
+    at Module._compile (/home/vlade/test2/server/node_modules/source-map-support/source-map-support.js:521:25)
+    at Module.m._compile (/tmp/ts-node-dev-hook-8903730855175447.js:69:33)
+    at node:internal/modules/cjs/loader:1706:10
+    at require.extensions..jsx.require.extensions..js (/tmp/ts-node-dev-hook-8903730855175447.js:114:20)
+    at require.extensions.<computed> (/tmp/ts-node-dev-hook-8903730855175447.js:71:20)
+    at Object.nodeDevHook [as .ts] (/home/vlade/test2/server/node_modules/ts-node-dev/lib/hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1289:32)
+    at Function._load (node:internal/modules/cjs/loader:1108:12)
+2025-09-02 14:45:15 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/services/attendance.service.ts(36,14): error TS2551: Property 'cache' does not exist on type 'Query<(Document<unknown, {}, AttendanceDoc, {}, {}> & AttendanceDoc & { _id: ObjectId; } & { __v: number; })[], Document<unknown, {}, AttendanceDoc, {}, {}> & AttendanceDoc & { ...; } & { ...; }, {}, AttendanceDoc, "find", {}>'. Did you mean 'catch'?
+
+Error: ⨯ Unable to compile TypeScript:
+src/services/attendance.service.ts(36,14): error TS2551: Property 'cache' does not exist on type 'Query<(Document<unknown, {}, AttendanceDoc, {}, {}> & AttendanceDoc & { _id: ObjectId; } & { __v: number; })[], Document<unknown, {}, AttendanceDoc, {}, {}> & AttendanceDoc & { ...; } & { ...; }, {}, AttendanceDoc, "find", {}>'. Did you mean 'catch'?
+
+    at Object.<anonymous> (/home/vlade/test2/server/src/services/attendance.service.ts:1:7)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1554:14)
+    at Module._compile (/home/vlade/test2/server/node_modules/source-map-support/source-map-support.js:521:25)
+    at Module.m._compile (/tmp/ts-node-dev-hook-49821692635081916.js:69:33)
+    at node:internal/modules/cjs/loader:1706:10
+    at require.extensions..jsx.require.extensions..js (/tmp/ts-node-dev-hook-49821692635081916.js:114:20)
+    at require.extensions.<computed> (/tmp/ts-node-dev-hook-49821692635081916.js:71:20)
+    at Object.nodeDevHook [as .ts] (/home/vlade/test2/server/node_modules/ts-node-dev/lib/hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1289:32)
+    at Function._load (node:internal/modules/cjs/loader:1108:12)
+2025-09-02 14:46:20 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/services/attendance.service.ts(36,14): error TS2551: Property 'cache' does not exist on type 'Query<(Document<unknown, {}, AttendanceDoc, {}, {}> & AttendanceDoc & { _id: ObjectId; } & { __v: number; })[], Document<unknown, {}, AttendanceDoc, {}, {}> & AttendanceDoc & { ...; } & { ...; }, {}, AttendanceDoc, "find", {}>'. Did you mean 'catch'?
+
+Error: ⨯ Unable to compile TypeScript:
+src/services/attendance.service.ts(36,14): error TS2551: Property 'cache' does not exist on type 'Query<(Document<unknown, {}, AttendanceDoc, {}, {}> & AttendanceDoc & { _id: ObjectId; } & { __v: number; })[], Document<unknown, {}, AttendanceDoc, {}, {}> & AttendanceDoc & { ...; } & { ...; }, {}, AttendanceDoc, "find", {}>'. Did you mean 'catch'?
+
+    at Object.<anonymous> (/home/vlade/test2/server/src/services/attendance.service.ts:1:7)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1554:14)
+    at Module._compile (/home/vlade/test2/server/node_modules/source-map-support/source-map-support.js:521:25)
+    at Module.m._compile (/tmp/ts-node-dev-hook-1763266401476653.js:69:33)
+    at node:internal/modules/cjs/loader:1706:10
+    at require.extensions..jsx.require.extensions..js (/tmp/ts-node-dev-hook-1763266401476653.js:114:20)
+    at require.extensions.<computed> (/tmp/ts-node-dev-hook-1763266401476653.js:71:20)
+    at Object.nodeDevHook [as .ts] (/home/vlade/test2/server/node_modules/ts-node-dev/lib/hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1289:32)
+    at Function._load (node:internal/modules/cjs/loader:1108:12)
+2025-09-02 14:47:52 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/services/attendance.service.ts(36,14): error TS2551: Property 'cache' does not exist on type 'Query<(Document<unknown, {}, AttendanceDoc, {}, {}> & AttendanceDoc & { _id: ObjectId; } & { __v: number; })[], Document<unknown, {}, AttendanceDoc, {}, {}> & AttendanceDoc & { ...; } & { ...; }, {}, AttendanceDoc, "find", {}>'. Did you mean 'catch'?
+
+Error: ⨯ Unable to compile TypeScript:
+src/services/attendance.service.ts(36,14): error TS2551: Property 'cache' does not exist on type 'Query<(Document<unknown, {}, AttendanceDoc, {}, {}> & AttendanceDoc & { _id: ObjectId; } & { __v: number; })[], Document<unknown, {}, AttendanceDoc, {}, {}> & AttendanceDoc & { ...; } & { ...; }, {}, AttendanceDoc, "find", {}>'. Did you mean 'catch'?
+
+    at Object.<anonymous> (/home/vlade/test2/server/src/services/attendance.service.ts:1:7)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1554:14)
+    at Module._compile (/home/vlade/test2/server/node_modules/source-map-support/source-map-support.js:521:25)
+    at Module.m._compile (/tmp/ts-node-dev-hook-1763266401476653.js:69:33)
+    at node:internal/modules/cjs/loader:1706:10
+    at require.extensions..jsx.require.extensions..js (/tmp/ts-node-dev-hook-1763266401476653.js:114:20)
+    at require.extensions.<computed> (/tmp/ts-node-dev-hook-1763266401476653.js:71:20)
+    at Object.nodeDevHook [as .ts] (/home/vlade/test2/server/node_modules/ts-node-dev/lib/hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1289:32)
+    at Function._load (node:internal/modules/cjs/loader:1108:12)
+2025-09-02 14:48:21 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/services/attendance.service.ts(36,14): error TS2551: Property 'cache' does not exist on type 'Query<(Document<unknown, {}, AttendanceDoc, {}, {}> & AttendanceDoc & { _id: ObjectId; } & { __v: number; })[], Document<unknown, {}, AttendanceDoc, {}, {}> & AttendanceDoc & { ...; } & { ...; }, {}, AttendanceDoc, "find", {}>'. Did you mean 'catch'?
+
+Error: ⨯ Unable to compile TypeScript:
+src/services/attendance.service.ts(36,14): error TS2551: Property 'cache' does not exist on type 'Query<(Document<unknown, {}, AttendanceDoc, {}, {}> & AttendanceDoc & { _id: ObjectId; } & { __v: number; })[], Document<unknown, {}, AttendanceDoc, {}, {}> & AttendanceDoc & { ...; } & { ...; }, {}, AttendanceDoc, "find", {}>'. Did you mean 'catch'?
+
+    at Object.<anonymous> (/home/vlade/test2/server/src/services/attendance.service.ts:1:7)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1554:14)
+    at Module._compile (/home/vlade/test2/server/node_modules/source-map-support/source-map-support.js:521:25)
+    at Module.m._compile (/tmp/ts-node-dev-hook-07482960423208729.js:69:33)
+    at node:internal/modules/cjs/loader:1706:10
+    at require.extensions..jsx.require.extensions..js (/tmp/ts-node-dev-hook-07482960423208729.js:114:20)
+    at require.extensions.<computed> (/tmp/ts-node-dev-hook-07482960423208729.js:71:20)
+    at Object.nodeDevHook [as .ts] (/home/vlade/test2/server/node_modules/ts-node-dev/lib/hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1289:32)
+    at Function._load (node:internal/modules/cjs/loader:1108:12)
+2025-09-02 14:50:02 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/services/attendance.service.ts(36,14): error TS2551: Property 'cache' does not exist on type 'Query<(Document<unknown, {}, AttendanceDoc, {}, {}> & AttendanceDoc & { _id: ObjectId; } & { __v: number; })[], Document<unknown, {}, AttendanceDoc, {}, {}> & AttendanceDoc & { ...; } & { ...; }, {}, AttendanceDoc, "find", {}>'. Did you mean 'catch'?
+
+Error: ⨯ Unable to compile TypeScript:
+src/services/attendance.service.ts(36,14): error TS2551: Property 'cache' does not exist on type 'Query<(Document<unknown, {}, AttendanceDoc, {}, {}> & AttendanceDoc & { _id: ObjectId; } & { __v: number; })[], Document<unknown, {}, AttendanceDoc, {}, {}> & AttendanceDoc & { ...; } & { ...; }, {}, AttendanceDoc, "find", {}>'. Did you mean 'catch'?
+
+    at Object.<anonymous> (/home/vlade/test2/server/src/services/attendance.service.ts:1:7)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1554:14)
+    at Module._compile (/home/vlade/test2/server/node_modules/source-map-support/source-map-support.js:521:25)
+    at Module.m._compile (/tmp/ts-node-dev-hook-2800422793996298.js:69:33)
+    at node:internal/modules/cjs/loader:1706:10
+    at require.extensions..jsx.require.extensions..js (/tmp/ts-node-dev-hook-2800422793996298.js:114:20)
+    at require.extensions.<computed> (/tmp/ts-node-dev-hook-2800422793996298.js:71:20)
+    at Object.nodeDevHook [as .ts] (/home/vlade/test2/server/node_modules/ts-node-dev/lib/hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1289:32)
+    at Function._load (node:internal/modules/cjs/loader:1108:12)
+2025-09-02 15:00:20 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/services/attendance.service.ts(36,14): error TS2551: Property 'cache' does not exist on type 'Query<(Document<unknown, {}, AttendanceDoc, {}, {}> & AttendanceDoc & { _id: ObjectId; } & { __v: number; })[], Document<unknown, {}, AttendanceDoc, {}, {}> & AttendanceDoc & { ...; } & { ...; }, {}, AttendanceDoc, "find", {}>'. Did you mean 'catch'?
+
+Error: ⨯ Unable to compile TypeScript:
+src/services/attendance.service.ts(36,14): error TS2551: Property 'cache' does not exist on type 'Query<(Document<unknown, {}, AttendanceDoc, {}, {}> & AttendanceDoc & { _id: ObjectId; } & { __v: number; })[], Document<unknown, {}, AttendanceDoc, {}, {}> & AttendanceDoc & { ...; } & { ...; }, {}, AttendanceDoc, "find", {}>'. Did you mean 'catch'?
+
+    at Object.<anonymous> (/home/vlade/test2/server/src/services/attendance.service.ts:1:7)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1554:14)
+    at Module._compile (/home/vlade/test2/server/node_modules/source-map-support/source-map-support.js:521:25)
+    at Module.m._compile (/tmp/ts-node-dev-hook-9350524581562338.js:69:33)
+    at node:internal/modules/cjs/loader:1706:10
+    at require.extensions..jsx.require.extensions..js (/tmp/ts-node-dev-hook-9350524581562338.js:114:20)
+    at require.extensions.<computed> (/tmp/ts-node-dev-hook-9350524581562338.js:71:20)
+    at Object.nodeDevHook [as .ts] (/home/vlade/test2/server/node_modules/ts-node-dev/lib/hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1289:32)
+    at Function._load (node:internal/modules/cjs/loader:1108:12)
+2025-09-02 15:00:35 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/services/attendance.service.ts(37,14): error TS2551: Property 'cache' does not exist on type 'Query<(Document<unknown, {}, AttendanceDoc, {}, {}> & AttendanceDoc & { _id: ObjectId; } & { __v: number; })[], Document<unknown, {}, AttendanceDoc, {}, {}> & AttendanceDoc & { ...; } & { ...; }, {}, AttendanceDoc, "find", {}>'. Did you mean 'catch'?
+
+Error: ⨯ Unable to compile TypeScript:
+src/services/attendance.service.ts(37,14): error TS2551: Property 'cache' does not exist on type 'Query<(Document<unknown, {}, AttendanceDoc, {}, {}> & AttendanceDoc & { _id: ObjectId; } & { __v: number; })[], Document<unknown, {}, AttendanceDoc, {}, {}> & AttendanceDoc & { ...; } & { ...; }, {}, AttendanceDoc, "find", {}>'. Did you mean 'catch'?
+
+    at Object.<anonymous> (/home/vlade/test2/server/src/services/attendance.service.ts:1:7)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1554:14)
+    at Module._compile (/home/vlade/test2/server/node_modules/source-map-support/source-map-support.js:521:25)
+    at Module.m._compile (/tmp/ts-node-dev-hook-9350524581562338.js:69:33)
+    at node:internal/modules/cjs/loader:1706:10
+    at require.extensions..jsx.require.extensions..js (/tmp/ts-node-dev-hook-9350524581562338.js:114:20)
+    at require.extensions.<computed> (/tmp/ts-node-dev-hook-9350524581562338.js:71:20)
+    at Object.nodeDevHook [as .ts] (/home/vlade/test2/server/node_modules/ts-node-dev/lib/hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1289:32)
+    at Function._load (node:internal/modules/cjs/loader:1108:12)
+2025-09-02 15:00:42 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/services/attendance.service.ts(37,14): error TS2551: Property 'cache' does not exist on type 'Query<(Document<unknown, {}, AttendanceDoc, {}, {}> & AttendanceDoc & { _id: ObjectId; } & { __v: number; })[], Document<unknown, {}, AttendanceDoc, {}, {}> & AttendanceDoc & { ...; } & { ...; }, {}, AttendanceDoc, "find", {}>'. Did you mean 'catch'?
+
+Error: ⨯ Unable to compile TypeScript:
+src/services/attendance.service.ts(37,14): error TS2551: Property 'cache' does not exist on type 'Query<(Document<unknown, {}, AttendanceDoc, {}, {}> & AttendanceDoc & { _id: ObjectId; } & { __v: number; })[], Document<unknown, {}, AttendanceDoc, {}, {}> & AttendanceDoc & { ...; } & { ...; }, {}, AttendanceDoc, "find", {}>'. Did you mean 'catch'?
+
+    at Object.<anonymous> (/home/vlade/test2/server/src/services/attendance.service.ts:1:7)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1554:14)
+    at Module._compile (/home/vlade/test2/server/node_modules/source-map-support/source-map-support.js:521:25)
+    at Module.m._compile (/tmp/ts-node-dev-hook-49805709922627717.js:69:33)
+    at node:internal/modules/cjs/loader:1706:10
+    at require.extensions..jsx.require.extensions..js (/tmp/ts-node-dev-hook-49805709922627717.js:114:20)
+    at require.extensions.<computed> (/tmp/ts-node-dev-hook-49805709922627717.js:71:20)
+    at Object.nodeDevHook [as .ts] (/home/vlade/test2/server/node_modules/ts-node-dev/lib/hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1289:32)
+    at Function._load (node:internal/modules/cjs/loader:1108:12)
+2025-09-02 15:04:25 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/services/attendance.service.ts(36,14): error TS2551: Property 'cache' does not exist on type 'Query<(Document<unknown, {}, AttendanceDoc, {}, {}> & AttendanceDoc & { _id: ObjectId; } & { __v: number; })[], Document<unknown, {}, AttendanceDoc, {}, {}> & AttendanceDoc & { ...; } & { ...; }, {}, AttendanceDoc, "find", {}>'. Did you mean 'catch'?
+
+Error: ⨯ Unable to compile TypeScript:
+src/services/attendance.service.ts(36,14): error TS2551: Property 'cache' does not exist on type 'Query<(Document<unknown, {}, AttendanceDoc, {}, {}> & AttendanceDoc & { _id: ObjectId; } & { __v: number; })[], Document<unknown, {}, AttendanceDoc, {}, {}> & AttendanceDoc & { ...; } & { ...; }, {}, AttendanceDoc, "find", {}>'. Did you mean 'catch'?
+
+    at Object.<anonymous> (/home/vlade/test2/server/src/services/attendance.service.ts:1:7)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1554:14)
+    at Module._compile (/home/vlade/test2/server/node_modules/source-map-support/source-map-support.js:521:25)
+    at Module.m._compile (/tmp/ts-node-dev-hook-49805709922627717.js:69:33)
+    at node:internal/modules/cjs/loader:1706:10
+    at require.extensions..jsx.require.extensions..js (/tmp/ts-node-dev-hook-49805709922627717.js:114:20)
+    at require.extensions.<computed> (/tmp/ts-node-dev-hook-49805709922627717.js:71:20)
+    at Object.nodeDevHook [as .ts] (/home/vlade/test2/server/node_modules/ts-node-dev/lib/hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1289:32)
+    at Function._load (node:internal/modules/cjs/loader:1108:12)
+2025-09-02 15:08:11 error: ❌ MongoDB connection error: connect ECONNREFUSED 127.0.0.1:27017
+2025-09-02 15:08:20 error: uncaughtException: Cannot find module './global'
+Require stack:
+- /home/vlade/test2/server/src/services/attendance.service.ts
+- /home/vlade/test2/server/src/controllers/attendance.controller.ts
+- /home/vlade/test2/server/src/routes/attendance.route.ts
+- /home/vlade/test2/server/src/index.ts
+Error: Cannot find module './global'
+Require stack:
+- /home/vlade/test2/server/src/services/attendance.service.ts
+- /home/vlade/test2/server/src/controllers/attendance.controller.ts
+- /home/vlade/test2/server/src/routes/attendance.route.ts
+- /home/vlade/test2/server/src/index.ts
+    at Function.<anonymous> (node:internal/modules/cjs/loader:1225:15)
+    at Function.Module._resolveFilename (/home/vlade/test2/server/node_modules/tsconfig-paths/src/register.ts:115:36)
+    at Function._load (node:internal/modules/cjs/loader:1055:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)
+    at Module.require (node:internal/modules/cjs/loader:1311:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (/home/vlade/test2/server/src/services/attendance.service.ts:5:1)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1554:14)
+    at Module._compile (/home/vlade/test2/server/node_modules/source-map-support/source-map-support.js:521:25)
+2025-09-02 15:08:35 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/utils/cache.ts(6,26): error TS2551: Property 'cache' does not exist on type 'Query<any, any, any, any, any, any>'. Did you mean 'catch'?
+
+Error: ⨯ Unable to compile TypeScript:
+src/utils/cache.ts(6,26): error TS2551: Property 'cache' does not exist on type 'Query<any, any, any, any, any, any>'. Did you mean 'catch'?
+
+    at Object.<anonymous> (/home/vlade/test2/server/src/utils/cache.ts:1:7)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1554:14)
+    at Module._compile (/home/vlade/test2/server/node_modules/source-map-support/source-map-support.js:521:25)
+    at Module.m._compile (/tmp/ts-node-dev-hook-17172506853055003.js:69:33)
+    at node:internal/modules/cjs/loader:1706:10
+    at require.extensions..jsx.require.extensions..js (/tmp/ts-node-dev-hook-17172506853055003.js:114:20)
+    at require.extensions.<computed> (/tmp/ts-node-dev-hook-17172506853055003.js:71:20)
+    at Object.nodeDevHook [as .ts] (/home/vlade/test2/server/node_modules/ts-node-dev/lib/hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1289:32)
+    at Function._load (node:internal/modules/cjs/loader:1108:12)
+2025-09-02 15:11:44 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/services/attendance.service.ts(36,14): error TS2551: Property 'cache' does not exist on type 'Query<(Document<unknown, {}, AttendanceDoc, {}, {}> & AttendanceDoc & { _id: ObjectId; } & { __v: number; })[], Document<unknown, {}, AttendanceDoc, {}, {}> & AttendanceDoc & { ...; } & { ...; }, {}, AttendanceDoc, "find", {}>'. Did you mean 'catch'?
+
+Error: ⨯ Unable to compile TypeScript:
+src/services/attendance.service.ts(36,14): error TS2551: Property 'cache' does not exist on type 'Query<(Document<unknown, {}, AttendanceDoc, {}, {}> & AttendanceDoc & { _id: ObjectId; } & { __v: number; })[], Document<unknown, {}, AttendanceDoc, {}, {}> & AttendanceDoc & { ...; } & { ...; }, {}, AttendanceDoc, "find", {}>'. Did you mean 'catch'?
+
+    at Object.<anonymous> (/home/vlade/test2/server/src/services/attendance.service.ts:1:7)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1554:14)
+    at Module._compile (/home/vlade/test2/server/node_modules/source-map-support/source-map-support.js:521:25)
+    at Module.m._compile (/tmp/ts-node-dev-hook-17172506853055003.js:69:33)
+    at node:internal/modules/cjs/loader:1706:10
+    at require.extensions..jsx.require.extensions..js (/tmp/ts-node-dev-hook-17172506853055003.js:114:20)
+    at require.extensions.<computed> (/tmp/ts-node-dev-hook-17172506853055003.js:71:20)
+    at Object.nodeDevHook [as .ts] (/home/vlade/test2/server/node_modules/ts-node-dev/lib/hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1289:32)
+    at Function._load (node:internal/modules/cjs/loader:1108:12)
+2025-09-02 15:12:34 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/services/attendance.service.ts(36,14): error TS2551: Property 'cache' does not exist on type 'Query<(Document<unknown, {}, AttendanceDoc, {}, {}> & AttendanceDoc & { _id: ObjectId; } & { __v: number; })[], Document<unknown, {}, AttendanceDoc, {}, {}> & AttendanceDoc & { ...; } & { ...; }, {}, AttendanceDoc, "find", {}>'. Did you mean 'catch'?
+
+Error: ⨯ Unable to compile TypeScript:
+src/services/attendance.service.ts(36,14): error TS2551: Property 'cache' does not exist on type 'Query<(Document<unknown, {}, AttendanceDoc, {}, {}> & AttendanceDoc & { _id: ObjectId; } & { __v: number; })[], Document<unknown, {}, AttendanceDoc, {}, {}> & AttendanceDoc & { ...; } & { ...; }, {}, AttendanceDoc, "find", {}>'. Did you mean 'catch'?
+
+    at Object.<anonymous> (/home/vlade/test2/server/src/services/attendance.service.ts:1:7)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1554:14)
+    at Module._compile (/home/vlade/test2/server/node_modules/source-map-support/source-map-support.js:521:25)
+    at Module.m._compile (/tmp/ts-node-dev-hook-6903975567647767.js:69:33)
+    at node:internal/modules/cjs/loader:1706:10
+    at require.extensions..jsx.require.extensions..js (/tmp/ts-node-dev-hook-6903975567647767.js:114:20)
+    at require.extensions.<computed> (/tmp/ts-node-dev-hook-6903975567647767.js:71:20)
+    at Object.nodeDevHook [as .ts] (/home/vlade/test2/server/node_modules/ts-node-dev/lib/hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1289:32)
+    at Function._load (node:internal/modules/cjs/loader:1108:12)
+2025-09-02 15:13:48 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/services/attendance.service.ts(37,14): error TS2551: Property 'cache' does not exist on type 'Query<(Document<unknown, {}, AttendanceDoc, {}, {}> & AttendanceDoc & { _id: ObjectId; } & { __v: number; })[], Document<unknown, {}, AttendanceDoc, {}, {}> & AttendanceDoc & { ...; } & { ...; }, {}, AttendanceDoc, "find", {}>'. Did you mean 'catch'?
+
+Error: ⨯ Unable to compile TypeScript:
+src/services/attendance.service.ts(37,14): error TS2551: Property 'cache' does not exist on type 'Query<(Document<unknown, {}, AttendanceDoc, {}, {}> & AttendanceDoc & { _id: ObjectId; } & { __v: number; })[], Document<unknown, {}, AttendanceDoc, {}, {}> & AttendanceDoc & { ...; } & { ...; }, {}, AttendanceDoc, "find", {}>'. Did you mean 'catch'?
+
+    at Object.<anonymous> (/home/vlade/test2/server/src/services/attendance.service.ts:1:7)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1554:14)
+    at Module._compile (/home/vlade/test2/server/node_modules/source-map-support/source-map-support.js:521:25)
+    at Module.m._compile (/tmp/ts-node-dev-hook-6903975567647767.js:69:33)
+    at node:internal/modules/cjs/loader:1706:10
+    at require.extensions..jsx.require.extensions..js (/tmp/ts-node-dev-hook-6903975567647767.js:114:20)
+    at require.extensions.<computed> (/tmp/ts-node-dev-hook-6903975567647767.js:71:20)
+    at Object.nodeDevHook [as .ts] (/home/vlade/test2/server/node_modules/ts-node-dev/lib/hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1289:32)
+    at Function._load (node:internal/modules/cjs/loader:1108:12)
+2025-09-02 15:14:11 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/services/attendance.service.ts(37,14): error TS2551: Property 'cache' does not exist on type 'Query<(Document<unknown, {}, AttendanceDoc, {}, {}> & AttendanceDoc & { _id: ObjectId; } & { __v: number; })[], Document<unknown, {}, AttendanceDoc, {}, {}> & AttendanceDoc & { ...; } & { ...; }, {}, AttendanceDoc, "find", {}>'. Did you mean 'catch'?
+
+Error: ⨯ Unable to compile TypeScript:
+src/services/attendance.service.ts(37,14): error TS2551: Property 'cache' does not exist on type 'Query<(Document<unknown, {}, AttendanceDoc, {}, {}> & AttendanceDoc & { _id: ObjectId; } & { __v: number; })[], Document<unknown, {}, AttendanceDoc, {}, {}> & AttendanceDoc & { ...; } & { ...; }, {}, AttendanceDoc, "find", {}>'. Did you mean 'catch'?
+
+    at Object.<anonymous> (/home/vlade/test2/server/src/services/attendance.service.ts:1:7)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1554:14)
+    at Module._compile (/home/vlade/test2/server/node_modules/source-map-support/source-map-support.js:521:25)
+    at Module.m._compile (/tmp/ts-node-dev-hook-25418811255975293.js:69:33)
+    at node:internal/modules/cjs/loader:1706:10
+    at require.extensions..jsx.require.extensions..js (/tmp/ts-node-dev-hook-25418811255975293.js:114:20)
+    at require.extensions.<computed> (/tmp/ts-node-dev-hook-25418811255975293.js:71:20)
+    at Object.nodeDevHook [as .ts] (/home/vlade/test2/server/node_modules/ts-node-dev/lib/hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1289:32)
+    at Function._load (node:internal/modules/cjs/loader:1108:12)
+2025-09-02 15:15:17 error: ❌ MongoDB connection error: connect ECONNREFUSED 127.0.0.1:27017
+2025-09-02 16:12:23 error: ❌ MongoDB connection error: connect ECONNREFUSED 127.0.0.1:27017
+2025-09-02 16:13:47 error: ❌ MongoDB connection error: connect ECONNREFUSED 127.0.0.1:27017
+2025-09-02 16:16:22 error: ❌ Redis Client Error: ERR AUTH <password> called without any password configured for the default user. Are you sure your configuration is correct?
+2025-09-02 16:16:22 error: ❌ Redis Client Error: ERR AUTH <password> called without any password configured for the default user. Are you sure your configuration is correct?
+2025-09-02 16:16:22 error: ❌ Redis Client Error: ERR AUTH <password> called without any password configured for the default user. Are you sure your configuration is correct?
+2025-09-02 16:16:22 error: ❌ Redis Client Error: ERR AUTH <password> called without any password configured for the default user. Are you sure your configuration is correct?
+2025-09-02 16:16:23 error: ❌ Redis Client Error: ERR AUTH <password> called without any password configured for the default user. Are you sure your configuration is correct?
+2025-09-02 16:16:24 error: ❌ Redis Client Error: ERR AUTH <password> called without any password configured for the default user. Are you sure your configuration is correct?
+2025-09-02 16:16:25 error: ❌ Redis Client Error: ERR AUTH <password> called without any password configured for the default user. Are you sure your configuration is correct?
+2025-09-02 16:16:27 error: ❌ Redis Client Error: ERR AUTH <password> called without any password configured for the default user. Are you sure your configuration is correct?
+2025-09-02 16:19:49 error: [GET] /attendance >> StatusCode:: 500, Message:: query.cache is not a function
