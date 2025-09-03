@@ -10,3 +10,12 @@
 2025-09-03 12:16:00 info: ✅ Connected to Redis.
 2025-09-03 12:16:02 info: 🚀 Server listening on port 3001
 2025-09-03 12:16:02 info: 📚 Swagger docs at http://localhost:3001/api-docs
+2025-09-03 21:09:18 error: ❌ MongoDB connection error: connect ECONNREFUSED 172.18.0.3:27018
+2025-09-03 21:14:30 info: ✅ Connected to MongoDB.
+2025-09-03 21:14:30 info: ✅ Connected to Redis.
+2025-09-03 21:14:31 info: 🚀 Server listening on port 3001
+2025-09-03 21:14:31 info: 📚 Swagger docs at http://localhost:3001/api-docs
+2025-09-03 21:27:11 info: ✅ Connected to MongoDB.
+2025-09-03 21:27:11 info: ✅ Connected to Redis.
+2025-09-03 21:27:13 info: 🚀 Server listening on port 3001
+2025-09-03 21:27:13 info: 📚 Swagger docs at http://localhost:3001/api-docs

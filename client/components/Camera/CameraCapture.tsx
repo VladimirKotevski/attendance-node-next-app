@@ -2,6 +2,7 @@
 
 import { useRef, useState } from "react";
 import styles from "./CameraCapture.module.scss";
+import Image from "next/image";
 
 type CameraCaptureProps = {
     onCapture: (imageData: string) => void;
@@ -61,7 +62,13 @@ export default function CameraCapture({ onCapture }: CameraCaptureProps) {
             {capturedImage && (
                 <div className={styles.preview}>
                     <p>Captured Image:</p>
-                    <img src={capturedImage} alt="Captured" />
+                    <Image
+                        src={capturedImage}
+                        alt="Captured"
+                        width={320}
+                        height={240}
+                        className={styles.capturedImage}
+                    />
                 </div>
             )}
         </div>

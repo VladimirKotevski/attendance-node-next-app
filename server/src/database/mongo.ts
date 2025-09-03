@@ -14,7 +14,7 @@ export class Database {
 
   public async connect(): Promise<void> {
     try {
-      const mongoUri = "mongodb://root:secret@localhost:27017/database?authSource=admin";
+      const mongoUri = "mongodb://root:secret@mongo:27017/database?authSource=admin";
 
       await mongoose.connect(mongoUri, {
         // options (optional)

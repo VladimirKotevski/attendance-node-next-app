@@ -8,7 +8,7 @@ import { ErrorHelper } from '../../../helpers/ErrorHelper';
 type ErrorDialogProps = {
   open: boolean;
   onAck?: () => void;
-  error?: any;
+  error?: Error;
 };
 
 export function ErrorDialog({ open, onAck, error = (new Error('error.unknown')) }: ErrorDialogProps) {
