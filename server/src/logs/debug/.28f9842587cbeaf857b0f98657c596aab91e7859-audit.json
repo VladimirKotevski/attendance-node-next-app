@@ -14,6 +14,11 @@
             "date": 1756816515963,
             "name": "/home/vlade/test2/server/src/logs/debug/2025-09-02.log",
             "hash": "d180c6595de059cf48187541ca4b273d6400066492d6efa64e62c0ed6d855b9f"
+        },
+        {
+            "date": 1756894466710,
+            "name": "/home/vlade/test2/server/src/logs/debug/2025-09-03.log",
+            "hash": "5a9e31af25bdf9f7bbeac05b6f085e2e4367451874d182dc0f33a4c5c63c4410"
         }
     ],
     "hashType": "sha256"

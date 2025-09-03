@@ -1,0 +1,7 @@
+2025-09-03 12:14:57 error: ❌ MongoDB connection error: connect ECONNREFUSED 127.0.0.1:27017
+2025-09-03 12:15:33 error: ❌ Redis Client Error: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-03 12:15:33 error: ❌ Redis Client Error: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-03 12:15:33 error: ❌ Redis Client Error: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-03 12:15:33 error: ❌ Redis Client Error: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-03 12:15:34 error: ❌ Redis Client Error: connect ECONNREFUSED 127.0.0.1:6379
+2025-09-03 12:15:35 error: ❌ Redis Client Error: connect ECONNREFUSED 127.0.0.1:6379
