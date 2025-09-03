@@ -7,7 +7,7 @@ export class RedisDatabase {
 
   private constructor() {
     this.client = createClient({
-      url: "redis://localhost:6379", // password-protected Redis
+      url: "redis://:secret@redis:6379",
     });
 
     this.client.on("error", (err) => logger.error("❌ Redis Client Error:", err));
