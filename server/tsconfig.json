@@ -13,6 +13,7 @@
     "sourceMap": true,
     "skipLibCheck": true,
     "declaration": true,
+    "rootDir": "src",
     "outDir": "dist",
     "allowJs": true,
     "noEmit": false,

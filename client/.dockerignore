@@ -1,0 +1,14 @@
+node_modules
+npm-debug.log
+yarn.lock
+pnpm-lock.yaml
+
+.next
+out
+
+.env
+.env.local
+
+Dockerfile
+docker-compose.yml
+.dockerignore
